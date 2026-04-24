@@ -114,6 +114,6 @@ server_socket.close()
 ![alt text](<Screenshot 2026-04-24 141858.png>)
 # server:
 ![alt text](<Screenshot 2026-04-24 141908.png>)
->>>>>>> c08808c (sucess)
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
